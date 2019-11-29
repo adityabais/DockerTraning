@@ -1,0 +1,4 @@
+Dear All - Please do complete this excercise. This is standard Excersie provided by Kubernetes
+
+https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#label-selector-updates
+
